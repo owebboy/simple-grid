@@ -1,0 +1,21 @@
+{
+  "name": "simple-grid",
+  "version": "1.0.0",
+  "description": "a grid with a super simple design",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/owebboy/simple-grid.git"
+  },
+  "keywords": [
+    "stylus",
+    "simple",
+    "grid",
+    "css"
+  ],
+  "author": "Oliver Pope <o@owebboy.com> (https://owebboy.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/owebboy/simple-grid/issues"
+  },
+  "homepage": "https://github.com/owebboy/simple-grid"
+}
