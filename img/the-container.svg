@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="960px" height="400px" viewBox="0 0 960 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>the-container</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="the-container" sketch:type="MSArtboardGroup">
+            <rect id="Rectangle-1" stroke="#979797" sketch:type="MSShapeGroup" x="214" y="24" width="532" height="352"></rect>
+            <text id=".container" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="36" font-weight="bold" fill="#666666">
+                <tspan x="392" y="210">.container</tspan>
+            </text>
+            <text id="margin" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="36" font-weight="bold" fill="#666666">
+                <tspan x="36" y="210">margin</tspan>
+            </text>
+            <text id="margin" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="36" font-weight="bold" fill="#666666">
+                <tspan x="792" y="210">margin</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
