@@ -12,7 +12,11 @@
 
 with npm:
 
-`npm install --save-dev simple-grid`
+`npm install --save-dev simple-grid` 
+
+with bower:
+
+`bower install simple-grid`
 
 with github:
 
