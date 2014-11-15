@@ -20,5 +20,5 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-### Codekit ###
-config.codekit
+### NPM ###
+node_modules
