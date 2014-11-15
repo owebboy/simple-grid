@@ -1,0 +1,9 @@
+{
+  "name": "simple-grid-website",
+  "version": "1.0.0",
+  "dependencies": {
+    "o-simple-grid": "~1.0.1",
+    "typographic-styles": "~1.0.5",
+    "new-buttons": "~1.0.4"
+  }
+}
