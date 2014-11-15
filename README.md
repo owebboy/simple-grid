@@ -16,7 +16,7 @@ with npm:
 
 with bower:
 
-`bower install simple-grid`
+`bower install o-simple-grid`
 
 with github:
 
